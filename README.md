@@ -8,7 +8,9 @@ of A. Karpathy combining a CNN and an LSTM network to describe the content of an
 
 This is when I realized that something escaped my attention for some years, and I have to
 reassess my skills every year. Therefore this New Year Kata became my way to assess and
-reshape my skills, such that I can start the next year with a new trick.
+reshape my skills, such that I can start each new year with a new trick.
+
+These Katas prioritized topics like CNN, Software Architecture and Software Development
 
 Former Katas were about AI-supported Software Development and contained challenges to
 generate code. That project then got then steamrolled 18 Month later, when tab-nine
